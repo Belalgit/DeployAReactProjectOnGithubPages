@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/DeployAReactProjectOnGithubPages/static/css/main.073c9b0a.css",
-    "main.js": "/DeployAReactProjectOnGithubPages/static/js/main.17928a57.js",
+    "main.js": "/DeployAReactProjectOnGithubPages/static/js/main.bcc2979a.js",
     "static/js/787.dd9a8d66.chunk.js": "/DeployAReactProjectOnGithubPages/static/js/787.dd9a8d66.chunk.js",
     "static/media/logo.svg": "/DeployAReactProjectOnGithubPages/static/media/logo.16b63f3cde49a58f69098d2ad30bf094.svg",
     "index.html": "/DeployAReactProjectOnGithubPages/index.html",
     "main.073c9b0a.css.map": "/DeployAReactProjectOnGithubPages/static/css/main.073c9b0a.css.map",
-    "main.17928a57.js.map": "/DeployAReactProjectOnGithubPages/static/js/main.17928a57.js.map",
+    "main.bcc2979a.js.map": "/DeployAReactProjectOnGithubPages/static/js/main.bcc2979a.js.map",
     "787.dd9a8d66.chunk.js.map": "/DeployAReactProjectOnGithubPages/static/js/787.dd9a8d66.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.17928a57.js"
+    "static/js/main.bcc2979a.js"
   ]
 }
